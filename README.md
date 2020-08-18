@@ -9,3 +9,5 @@
 7. Project - Predicting (Soccer)Players Rating using Linear Regression
 8. Analysis of Restaurant Reviews using Natural Language Processing
 9. Project - Sentiment Analysis using NLP
+10. Project - New scraping from various news portals and analysed sentiment
+11. Project - Data fetching from a JavaScript file and converted into a DataFrame
